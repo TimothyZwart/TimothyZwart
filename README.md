@@ -9,6 +9,8 @@
 - React.JS
 - Node.JS
 - Java Spring FrameWork
+## Skills I'm Working:
+- TypeScript
 <!--
 
 Here are some ideas to get you started:
