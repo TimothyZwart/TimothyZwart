@@ -9,7 +9,6 @@
 ## Knowledge In:
 - React.JS
 - Node.JS
-- Java Spring Framework
 
 ## Skills I'm Working:
 - TypeScript
