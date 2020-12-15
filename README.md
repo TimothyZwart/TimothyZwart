@@ -1,5 +1,15 @@
 <h1>Hello I'm Tim, Full Stack Developer Developer <br />& Coffee Lover ☕</h1>
 
+## Skilled In:
+- PHP
+- JavaScript
+- Java
+## Knowledge In:
+- React.JS
+- Node.JS
+- Java Spring FrameWork
+## Portolio Projects
+- TBA
 <!--
 
 Here are some ideas to get you started:
