@@ -1,4 +1,4 @@
-<h1> Hello I'tim, Full Stack Developer <span style="color:lightblue">Developer</span> & Coffee Lover</h1>
+<h1> Hello I'm Tim, Full Stack Developer <span style="color:lightblue;">Developer</span> & Coffee Lover</h1>
 
 <!--
 
