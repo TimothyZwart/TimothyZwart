@@ -1,5 +1,4 @@
-<h1>Hi there, I'm Tim.<br />Full Stack Developer Developer & Coffee Lover ☕</h1>
-I'm a Full Stack Developer with a B.S. in Computer Science from <b>Marist College</b>.
+<h1>Hi there, I'm Tim.<br />Full Stack Developer, Marist College Graduate, & Coffee Lover ☕</h1>
 
 ## Skilled In:
 - JavaScript
