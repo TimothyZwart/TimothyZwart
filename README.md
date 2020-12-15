@@ -9,8 +9,6 @@
 - React.JS
 - Node.JS
 - Java Spring FrameWork
-## Portolio Projects
-- TBA
 <!--
 
 Here are some ideas to get you started:
