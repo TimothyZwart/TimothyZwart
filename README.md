@@ -1,4 +1,4 @@
-<h1>Hello There I'm Tim.<br />Full Stack Developer Developer & Coffee Lover ☕</h1>
+<h1>Hi there, I'm Tim.<br />Full Stack Developer Developer & Coffee Lover ☕</h1>
 
 ## Skilled In:
 - JavaScript
