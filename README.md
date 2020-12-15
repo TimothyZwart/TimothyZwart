@@ -1,4 +1,5 @@
-<h1> Hello I'm Tim, Full Stack Developer Developer & Coffee Lover ☕</h1>
+<h1>Hello I'm Tim, Full Stack Developer Developer</h1>
+<h2>& Coffee Lover ☕</h2>
 
 <!--
 
