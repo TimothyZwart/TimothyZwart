@@ -4,6 +4,7 @@
 - PHP
 - JavaScript
 - Java
+- SQL
 ## Knowledge In:
 - React.JS
 - Node.JS
