@@ -8,7 +8,7 @@
 ## Knowledge In:
 - React.JS
 - Node.JS
-- Java Spring FrameWork
+- Java Spring Framework
 ## Skills I'm Working:
 - TypeScript
 <!--
