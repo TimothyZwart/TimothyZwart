@@ -1,7 +1,6 @@
-### Hi there 👋
+<h1> Hello I'tim, Full Stack Developer <span style="color:lightblue">Developer</span> & Coffee Lover</h1>
 
 <!--
-**TimothyZwart/TimothyZwart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
