@@ -1,10 +1,10 @@
 <h1>Hello I'm Tim, Full Stack Developer Developer <br />& Coffee Lover ☕</h1>
 
 ## Skilled In:
-- PHP
 - JavaScript
 - Java
 - SQL
+- PHP
 ## Knowledge In:
 - React.JS
 - Node.JS
