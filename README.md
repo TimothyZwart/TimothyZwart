@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Tim.<br />Full Stack Developer, Marist College Graduate, & Coffee Lover ☕</h1>
+<h1>Hi there, I'm Tim.<br />Full Stack Developer & Marist College Graduate</h1>
 
 ## Skilled In:
 - JavaScript
